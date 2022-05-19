@@ -4,7 +4,11 @@
 [![Twitterl](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/millergodev)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/trung-hoang-quoc-498426133)
 
-🔭 I'm a mixed-stack software enginner for 5 years. Currently I'm focusing on Flutter. I make Youtube videos about Flutter in my free time.
+👨🏻‍💻 I've been a mixed-stack software engineer for **5 years**. 
+
+🔭 Currently I'm focusing on **Flutter**. 
+
+🥳 I make **Youtube videos** about Flutter in my free time.
 
 ## ⚡Technologies I love:
 - Flutter
@@ -23,7 +27,7 @@ Products | Technologies
 [Paloma Pay](https://www.palomapay.com/) | Backend (Ruby on Rails), Smart Contract (Solidity), Web (ReactJS)
 [S.E. Melbourne](https://play.google.com/store/apps/details?id=com.ea.solos&gl=US) | Mobile (Android) 
 
-## My Github stats
+## 
 ![github stats](https://github-readme-stats.vercel.app/api?username=trunghq3101)
 
 
