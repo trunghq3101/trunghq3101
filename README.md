@@ -8,7 +8,7 @@
 
 🔭 Currently I'm focusing on **Flutter**. 
 
-🥳 I make **Youtube videos** about Flutter in my free time.
+🥳 I make **Youtube videos** and **write** about Flutter in my free time.
 
 ## ⚡Technologies I love:
 - Flutter
